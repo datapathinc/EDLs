@@ -1,0 +1,63 @@
+# Sourced from https://supersite.8x8.com/8x8/subnets.php
+# Last Updated: 2022-05-04 11:45:35
+# 
+# Reference https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-admin/policy/use-an-external-dynamic-list-in-policy/formatting-guidelines-for-an-external-dynamic-list 
+# for list formatting
+
+#Subnet Region Name Service Type
+13.248.132.124/32 #Anycast/Global 8x8 Meet
+13.248.142.92/32 #Anycast/Global 8x8 Meet
+76.223.3.109/32 #Anycast/Global 8x8 Meet
+76.223.9.91/32 #Anycast/Global 8x8 Meet
+104.16.109.61/32 #Anycast/Global Cloudflare CDN
+104.16.110.61/32 #Anycast/Global Cloudflare CDN
+13.248.142.77/32 #Anycast/Global Required Core Services
+13.248.145.23/32 #Anycast/Global Required Core Services
+76.223.15.160/32 #Anycast/Global Required Core Services
+76.223.20.131/32 #Anycast/Global Required Core Services
+132.226.123.231/32 #United States Customer Experience
+34.210.124.154/32 #United States Maestro GW (CRM ACL)
+35.153.28.172/32 #United States Maestro GW (CRM ACL)
+35.163.17.165/32 #United States Maestro GW (CRM ACL)
+35.168.184.179/32 #United States Maestro GW (CRM ACL)
+52.11.53.3/32 #United States Maestro GW (CRM ACL)
+52.45.12.242/32 #United States Maestro GW (CRM ACL)
+52.70.44.5/32 #United States Maestro GW (CRM ACL)
+35.155.33.148/32 #United States Performance Monitoring
+100.24.138.19/32 #United States Quality Management
+18.207.17.202/32 #United States Quality Management
+18.210.227.214/32 #United States Quality Management
+18.211.30.153/32 #United States Quality Management
+18.212.44.232/32 #United States Quality Management
+18.235.118.25/32 #United States Quality Management
+18.235.9.235/32 #United States Quality Management
+3.83.62.171/32 #United States Quality Management
+3.85.150.14/32 #United States Quality Management
+3.86.124.117/32 #United States Quality Management
+3.89.13.72/32 #United States Quality Management
+3.90.23.190/32 #United States Quality Management
+3.91.164.8/32 #United States Quality Management
+34.202.185.172/32 #United States Quality Management
+34.210.112.178/32 #United States Quality Management
+34.212.53.26/32 #United States Quality Management
+34.213.220.197/32 #United States Quality Management
+34.237.214.158/32 #United States Quality Management
+35.161.5.126/32 #United States Quality Management
+35.162.170.255/32 #United States Quality Management
+35.170.137.234/32 #United States Quality Management
+35.175.90.124/32 #United States Quality Management
+52.35.50.242/32 #United States Quality Management
+52.42.100.84/32 #United States Quality Management
+52.45.194.239/32 #United States Quality Management
+52.7.210.48/32 #United States Quality Management
+52.88.193.9/32 #United States Quality Management
+52.89.212.132/32 #United States Quality Management
+54.145.163.56/32 #United States Quality Management
+54.148.199.210/32 #United States Quality Management
+54.149.163.109/32 #United States Quality Management
+54.201.101.254/32 #United States Quality Management
+13.248.132.105/32 #United States Required Core Services
+13.248.140.87/32 #United States Required Core Services
+3.14.30.96/27 #United States Required Core Services
+76.223.4.132/32 #United States Required Core Services
+76.223.9.159/32 #United States Required Core Services
